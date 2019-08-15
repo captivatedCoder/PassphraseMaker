@@ -1,0 +1,7 @@
+C:\Users\jstevens.FOODIEFAMILY\source\repos\PassphraseMaker\PassphraseMaker\bin\Debug\PassphraseMaker.exe.config
+C:\Users\jstevens.FOODIEFAMILY\source\repos\PassphraseMaker\PassphraseMaker\bin\Debug\PassphraseMaker.exe
+C:\Users\jstevens.FOODIEFAMILY\source\repos\PassphraseMaker\PassphraseMaker\bin\Debug\PassphraseMaker.pdb
+C:\Users\jstevens.FOODIEFAMILY\source\repos\PassphraseMaker\PassphraseMaker\obj\Debug\PassphraseMaker.csprojAssemblyReference.cache
+C:\Users\jstevens.FOODIEFAMILY\source\repos\PassphraseMaker\PassphraseMaker\obj\Debug\PassphraseMaker.csproj.CoreCompileInputs.cache
+C:\Users\jstevens.FOODIEFAMILY\source\repos\PassphraseMaker\PassphraseMaker\obj\Debug\PassphraseMaker.exe
+C:\Users\jstevens.FOODIEFAMILY\source\repos\PassphraseMaker\PassphraseMaker\obj\Debug\PassphraseMaker.pdb
